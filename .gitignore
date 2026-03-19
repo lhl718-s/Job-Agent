@@ -1,0 +1,12 @@
+# 环境变量和机密信息 (绝对不能传！)
+.env
+
+# 虚拟环境
+venv/
+env/
+miniconda3/
+
+# 编译缓存
+__pycache__/
+*.pyc
+

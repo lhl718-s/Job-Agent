@@ -32,5 +32,4 @@ Job-Agent/
 ├── mock_jobs.json     # 模拟数据库：包含各种岗位及干扰项的海量测试语料
 └── README.md          # 项目说明文档
 
-###
-启动命令：python main.py
+## python main.py
